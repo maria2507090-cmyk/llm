@@ -21,7 +21,7 @@ Para utilizar esta aplicación necesitas:
 
 1. Clona el repositorio o navega hasta la carpeta del proyecto en tu terminal:
    ```bash
-   cd /Users/leonelmendiola/llm/asistente_escritura
+   cd /ruta/a/tu/proyecto/asistente_escritura
    ```
 
 2. (Recomendado) Crea un entorno virtual para instalar las dependencias sin afectar tu sistema:
