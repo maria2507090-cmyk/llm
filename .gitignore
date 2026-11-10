@@ -1,0 +1,22 @@
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Claves de API y variables privadas
+.env
+.env.*
+!.env.example
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de Streamlit
+.streamlit/secrets.toml
+
+# Archivos de macOS
+.DS_Store
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
